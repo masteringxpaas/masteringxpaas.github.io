@@ -1,3 +1,7 @@
+Update: June 2018 moved to [Gitlab](https://gitlab.com/masteringxpaas)
+
+
+
 Devoxx 2014 Uni Session
 -----------------------
 Session online at parleys.com and available at [http://masteringxpaas.github.io](http://masteringxpaas.github.io).
